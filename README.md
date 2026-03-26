@@ -102,15 +102,8 @@ const ganesh = {
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ganesh1466&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub Streak" />
 </div>
 
----
+---      
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=ganesh1466&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" alt="GitHub Trophies" />
-</div>
-
----
 
 ## 📈 Contribution Graph
 
